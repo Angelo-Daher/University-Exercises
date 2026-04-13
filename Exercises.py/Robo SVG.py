@@ -8,7 +8,7 @@ print('Robo SVG Animado!')
   <circle cx="150" cy="30" r="10" fill="#ff4d4d"/>
 
   <!-- Cabeça -->
-  <rect x="75" y="70" width="150" height="110" rx="20" fill="#bfc9d1" stroke="#444" stroke-width="4"/>
+  <rect x="75" y="70" width="150" height="110" rx="20" fill="#00ffff" stroke="#444" stroke-width="4"/>
 
   <!-- Olhos -->
   <rect x="105" y="105" width="25" height="14" rx="7" fill="#111">
